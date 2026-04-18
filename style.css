@@ -188,8 +188,20 @@ h1, h2, h3 {
 /* Cards de Serviços */
 .services-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    grid-template-columns: repeat(4, 1fr); /* Força 4 colunas em telas grandes */
     gap: 2rem;
+}
+
+@media (max-width: 1024px) {
+    .services-grid {
+        grid-template-columns: repeat(2, 1fr); /* 2 por 2 em tablets */
+    }
+}
+
+@media (max-width: 600px) {
+    .services-grid {
+        grid-template-columns: 1fr; /* 1 por linha em celulares */
+    }
 }
 
 .service-card {
