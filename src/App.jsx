@@ -119,6 +119,12 @@ function App() {
                 description="Poltronas, cadeiras e puffs renovados em minutos."
                 delay={0.3}
               />
+              <ServiceCard 
+                icon={Zap} 
+                title="Tapetes" 
+                description="Lavagem especializada para diversos tipos de fibras e tramas."
+                delay={0.4}
+              />
             </div>
           </div>
         </section>
