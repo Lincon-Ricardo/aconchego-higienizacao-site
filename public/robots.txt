@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aconchego-higienizacao.web.app/sitemap.xml

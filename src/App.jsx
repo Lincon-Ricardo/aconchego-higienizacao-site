@@ -197,7 +197,7 @@ function App() {
               <p style={{ opacity: 0.7, marginTop: '1rem' }}>Transformando lares através da higienização profissional de estofados.</p>
             </div>
             <div style={{ textAlign: 'right' }}>
-              <p>📍 Atendemos Toda a Região da Zona Leste(SP)</p>
+              <p>📍 Atendemos Toda a Cidade de São Paulo e Região</p>
               <p>📞 (11) 91493-6063</p>
               <p>✉️ aconchego.higienizacao@gmail.com</p>
             </div>
