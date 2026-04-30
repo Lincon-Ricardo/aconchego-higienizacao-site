@@ -58,11 +58,11 @@ const ServiceCard = ({ icon: Icon, title, description, delay }) => (
 function App() {
   const testimonials = [
     { name: "Amanda Souza", text: "Meu pet fez xixi no sofá e achei que teria que jogar fora pelo cheiro. A equipe da Aconchego removeu o odor e as manchas totalmente. Além disso, minha rinite parou de atacar! É saúde e economia real.", img: "/img/amanda-souza.png" },
-    { name: "Carlos Eduardo", text: "Fiquei impressionado com a sujeira que saiu do colchão. O serviço de extração profunda é outro nível, o quarto ficou até mais leve. Atendimento nota 10.", img: "/img/carlos-eduardo.jpg" },
-    { name: "Mariana Silva", text: "Fiquei chocada com a cor da água! Meu sofá parecia limpo, mas a higienização mostrou a realidade. Serviço impecável e técnico muito cuidadoso.", img: "/img/mariana-silva.jpg" },
-    { name: "Ricardo Menezes", text: "Atendimento pontual e muito educado. Limparam as cadeiras de jantar e o resultado foi surpreendente. Recomendo para quem tem pets em casa!", img: "/img/ricardo-menezes.jpg" },
-    { name: "Juliana Costa", text: "Tenho rinite alérgica e senti a diferença no ar da casa logo após a limpeza do colchão. Vale cada centavo pela qualidade do sono.", img: "/img/juliana-costa.jpg" },
-    { name: "Beatriz Santos", text: "Excelente custo-benefício. O técnico foi super cuidadoso com o meu piso de madeira durante o processo. Meu estofado de linho voltou a ser branco!", img: "/img/beatriz-santos.jpg" }
+    { name: "Carlos Eduardo", text: "Fiquei impressionado com a sujeira que saiu do colchão. O serviço de extração profunda é outro nível, o quarto ficou até mais leve. Atendimento nota 10.", img: "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&q=80&w=800" },
+    { name: "Mariana Silva", text: "Fiquei chocada com a cor da água! Meu sofá parecia limpo, mas a higienização mostrou a realidade. Serviço impecável e técnico muito cuidadoso.", img: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?auto=format&fit=crop&q=80&w=800" },
+    { name: "Ricardo Menezes", text: "Atendimento pontual e muito educado. Limparam as cadeiras de jantar e o resultado foi surpreendente. Recomendo para quem tem pets em casa!", img: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&q=80&w=800" },
+    { name: "Juliana Costa", text: "Tenho rinite alérgica e senti a diferença no ar da casa logo após a limpeza do colchão. Vale cada centavo pela qualidade do sono.", img: "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&q=80&w=800" },
+    { name: "Beatriz Santos", text: "Excelente custo-benefício. O técnico foi super cuidadoso com o meu piso de madeira durante o processo. Meu estofado de linho voltou a ser branco!", img: "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&q=80&w=800" }
   ];
 
   return (
