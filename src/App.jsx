@@ -62,7 +62,7 @@ function App() {
     { name: "Mariana Silva", text: "Fiquei chocada com a cor da água! Meu sofá parecia limpo, mas a higienização mostrou a realidade. Serviço impecável e técnico muito cuidadoso.", img: "/img/MarianaSilva.png" },
     { name: "Ricardo Menezes", text: "Atendimento pontual e muito educado. Limparam as cadeiras de jantar e o resultado foi surpreendente. Recomendo para quem tem pets em casa!", img: "/img/RicardoMenezes.png" },
     { name: "Juliana Costa", text: "Tenho rinite alérgica e senti a diferença no ar da casa logo após a limpeza do colchão. Vale cada centavo pela qualidade do sono.", img: "/img/JulianaCosta.png" },
-    { name: "Beatriz Santos", text: "Excelente custo-benefício. O técnico foi super cuidadoso com o meu piso de madeira durante o processo. Meu estofado de linho voltou a ser branco!", img: "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&q=80&w=800" }
+    { name: "Beatriz Santos", text: "Excelente custo-benefício. O técnico foi super cuidadoso com o meu piso de madeira durante o processo. Meu estofado de linho voltou a ser branco!", img: "/img/BeatrizSantos.png" }
   ];
 
   return (
